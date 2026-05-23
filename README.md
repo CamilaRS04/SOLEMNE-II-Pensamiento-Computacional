@@ -202,3 +202,10 @@ En general el sketch quedó como yo quería. Me gusta que con solo mover el mous
 
 <img width="438" height="837" alt="image" src="https://github.com/user-attachments/assets/390ba9b7-39c8-4bbb-af33-9909078ceaff" />
 
+
+
+--------------------------------------------------------------------------
+
+
+**link al sketch en p5.js**:https://editor.p5js.org/camila.romo/sketches/QcdxSoG2c
+---------------
